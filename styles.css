@@ -1,6 +1,10 @@
-*{
+body{
 	background-color:#cccccc;
 	text-align:center
+}
+ul{
+	list-style-type:none;
+	
 }
 .player_one{
 	border:1px solid white;
@@ -12,7 +16,8 @@
 a{
 	text-decoration:none;
 	color:black;
-	background-color:white;
+	text-align:left
+	
 }
 h2{
 	margin-top:5px;
@@ -33,4 +38,8 @@ audio{
 }
 audio{
 	background-color:white;
+}
+h3{
+   text-align:left;
+   background-color:white;
 }
